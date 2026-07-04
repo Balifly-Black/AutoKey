@@ -1,7 +1,5 @@
 # AutoKey 使用说明
 
-[English README](README_EN.md)
-
 AutoKey 是一个 Windows 键盘/鼠标自动化软件。你可以用基础模式快速录入按键序列，也可以用高级模式编写 Lua 脚本，根据按键、截图和取色结果执行自动化操作。
 
 ## 快速开始
